@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @tmobley96
+# 👋 Hi, I’m TJ
 
 Welcome to my GitHub profile! I'm an enthusiastic developer passionate about harnessing the power of technology to solve real-world problems.
 
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm an enthusiastic developer passionate about har
 ## 📫 How to reach me ...
 
 - [LinkedIn](https://www.linkedin.com/in/1tmobley/): Connect with me for professional networking.
-- [Twitter/X](https://twitter.com/TMobley96): @TMobley96 - Follow me for more tech insights and updates on my latest projects.
+- [Twitter/X](https://twitter.com/TMobley96): Follow me for more tech insights and updates on my latest projects.
 
 Thank you for visiting my profile, and I look forward to the possibility of working together to create something amazing!
 
